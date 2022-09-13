@@ -1,6 +1,6 @@
 package com.techprimers.testing;
 
-public class FizzBuzz {
+public class jeyapriya {
 
     public String play(int number) {
 
